@@ -1,5 +1,5 @@
  👋 Hi, I’m @RahafSobh;
--  Information systems & Statistics Student;
+-  Information systems  Student;
 - ⚡ Ready to rock !
 
 <!---
